@@ -22,7 +22,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("instagram"),
+          title: Text("yoshinstagram"),
         ),
         body: SingleChildScrollView(
           child: Column(
